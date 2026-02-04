@@ -1,27 +1,12 @@
 {
-  "name": "永瀬廉 (Nagase Ren) Shop照图鉴",
+  "name": "永瀬廉图鉴",
   "last_updated": "2026-02-04",
   "ideals": [
     {
-      "title": "📸 halfmoon / moooove!!",
-      "description": "![halfmoon](https://raw.githubusercontent.com/yll19990123/ideals.nagaseren/main/images/halfmoon.jpg) \n\n **状态：已齐 (15/15)** \n\n 2人体制最新公式照。看点：白西装侧颜、清冷感光影。黑发廉的颜值巅峰之作。",
-      "category": "Shop Photos"
-    },
-    {
-      "title": "🎨 2026 巡演饭撒扇图纸",
-      "description": "![Fan Design](https://raw.githubusercontent.com/yll19990123/ideals.nagaseren/main/images/fan_design.jpg) \n\n **状态：设计中** \n\n 名字：Nagase Ren \n 字体：黑色艺术字 \n 背景：Dior Logo 底纹 \n 计划：全手工贴钻，制作平面高清图纸中。",
+      "title": "🎨 钻扇设计",
+      "description": "内容文字...",
       "category": "Fanmade"
-    },
-    {
-      "title": "🎤 Arena Tour 2023 〜ピース〜",
-      "description": "![Peace](https://raw.githubusercontent.com/yll19990123/ideals.nagaseren/main/images/peace.jpg) \n\n **状态：缺 2 张** \n\n ピース演唱会周边。目前正在蹲守戴猫耳的那张限定生写。",
-      "category": "Live Photos"
     }
   ],
-  "links": [
-    {
-      "name": "King & Prince Official",
-      "url": "https://www.universal-music.co.jp/king-and-prince/"
-    }
-  ]
+  "links": []
 }

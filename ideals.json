@@ -1,12 +1,22 @@
 {
-  "name": "永瀬廉图鉴",
+  "name": "永瀬廉 (Nagase Ren) 图鉴",
   "last_updated": "2026-02-04",
   "ideals": [
     {
-      "title": "🎨 钻扇设计",
-      "description": "内容文字...",
+      "title": "🎨 Nagase Ren 钻扇设计图",
+      "description": "![钻扇](https://raw.githubusercontent.com/yll19990123/ideals.nagaseren/main/images/halfmoon.jpg) \n\n **设计细节：** \n 名字使用黑色艺术字 Nagase Ren，背景为 Dior 经典 Logo 底纹。",
       "category": "Fanmade"
+    },
+    {
+      "title": "📸 halfmoon / moooove!! 公式照",
+      "description": "![生写](https://raw.githubusercontent.com/yll19990123/ideals.nagaseren/main/images/shop.jpg) \n\n **状态：已齐** \n 2024年5月发行。白西装系列侧颜非常出挑。",
+      "category": "Shop Photos"
     }
   ],
-  "links": []
+  "links": [
+    {
+      "name": "GitHub 仓库",
+      "url": "https://github.com/yll19990123/ideals.nagaseren"
+    }
+  ]
 }

@@ -1,26 +1,27 @@
 {
-  "name": "Nagase Ren Shop照图鉴",
+  "name": "永瀬廉 (Nagase Ren) Shop照图鉴",
   "last_updated": "2026-02-04",
   "ideals": [
     {
-      "title": "📸 halfmoon / moooove!! (2024)",
-      "description": "![halfmoon](https://your-image-link.com/ren-halfmoon.jpg) \n\n **状态：已全套齐** \n\n 2人体制后的最新作品。这套生写的主打是白西装与柔和光影，完美衬托了廉廉的侧颜线。包含个人照8张，混合照4张，团体3张。",
-      "category": "2人体制 Shop"
+      "title": "📸 halfmoon / moooove!!",
+      "description": "![halfmoon](https://raw.githubusercontent.com/yll19990123/ideals.nagaseren/main/images/halfmoon.jpg) \n\n **状态：已齐 (15/15)** \n\n 2人体制最新公式照。看点：白西装侧颜、清冷感光影。黑发廉的颜值巅峰之作。",
+      "category": "Shop Photos"
     },
     {
-      "title": "🎤 Arena Tour 2023 〜ピース〜",
-      "description": "![Peace Tour](https://your-image-link.com/ren-peace.jpg) \n\n **状态：缺 2 张 (P08, P15)** \n\n ピース演唱会的周边生写。特别是穿着彩色亮片私服的那几张非常活泼。目前正在寻找那张戴猫耳的限定版。",
-      "category": "Live Photos"
-    },
-    {
-      "title": "🎬 衍生周边：饭撒扇图纸 (Nagase Ren)",
-      "description": "![Fan Design](https://your-image-link.com/fan-design.jpg) \n\n **状态：设计定稿** \n\n 融合了黑色 Nagase Ren 艺术字与 Dior Logo 底纹。计划在 2026 年巡演前完成贴钻。背景计划使用黑色哑光材质以突出钻的闪烁度。",
+      "title": "🎨 2026 巡演饭撒扇图纸",
+      "description": "![Fan Design](https://raw.githubusercontent.com/yll19990123/ideals.nagaseren/main/images/fan_design.jpg) \n\n **状态：设计中** \n\n 名字：Nagase Ren \n 字体：黑色艺术字 \n 背景：Dior Logo 底纹 \n 计划：全手工贴钻，制作平面高清图纸中。",
       "category": "Fanmade"
     },
     {
-      "title": "⏳ 早期：2018 Debut 纪念 (Memorial)",
-      "description": "![2018 Debut](https://your-image-link.com/ren-2018.jpg) \n\n **状态：极少量持有** \n\n 出道初期的 Shop 照。包含《灰姑娘女孩》单曲花絮。那一时期的少年感和茶发造型是很多粉丝心中的神作，目前市场价较高。",
-      "category": "Rare / Memorial"
+      "title": "🎤 Arena Tour 2023 〜ピース〜",
+      "description": "![Peace](https://raw.githubusercontent.com/yll19990123/ideals.nagaseren/main/images/peace.jpg) \n\n **状态：缺 2 张** \n\n ピース演唱会周边。目前正在蹲守戴猫耳的那张限定生写。",
+      "category": "Live Photos"
+    }
+  ],
+  "links": [
+    {
+      "name": "King & Prince Official",
+      "url": "https://www.universal-music.co.jp/king-and-prince/"
     }
   ]
 }

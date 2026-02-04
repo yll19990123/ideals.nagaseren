@@ -1,0 +1,35 @@
+{
+  "idol_name": "Nagase Ren (永瀬廉)",
+  "category": "Shop Photos / Live Photos",
+  "collections": [
+    {
+      "series": "时期/单曲名称 (例如: Moooove!! / halfmoon)",
+      "release_date": "2024-05-23",
+      "total_count": 15, 
+      "photos": [
+        {
+          "id": "RN-001",
+          "type": "个人/混合/团体",
+          "description": "白西装、侧颜、手持花束",
+          "tags": ["美颜", "金发", "公式照"],
+          "obtained": true,
+          "image_url": "你的图片存储路径/p001.jpg"
+        },
+        {
+          "id": "RN-002",
+          "type": "个人",
+          "description": "标志性吐舌头/wink",
+          "tags": ["饭飒", "黑发"],
+          "obtained": false,
+          "image_url": ""
+        }
+      ]
+    },
+    {
+      "series": "King & Prince First Concert Tour 2018",
+      "release_date": "2018",
+      "total_count": 20,
+      "photos": []
+    }
+  ]
+}

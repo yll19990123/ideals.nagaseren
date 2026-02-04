@@ -1,22 +1,36 @@
 {
-  "name": "永瀬廉 (Nagase Ren) 图鉴",
+  "name": "永瀬廉 (Nagase Ren) 生写真图鉴",
   "last_updated": "2026-02-04",
   "ideals": [
     {
-      "title": "🎨 Nagase Ren 钻扇设计图",
-      "description": "![钻扇](https://raw.githubusercontent.com/yll19990123/ideals.nagaseren/main/images/halfmoon.jpg) \n\n **设计细节：** \n 名字使用黑色艺术字 Nagase Ren，背景为 Dior 经典 Logo 底纹。",
+      "title": "📸 「halfmoon / moooove!!」MV Off-shot",
+      "description": "![halfmoon](https://raw.githubusercontent.com/yll19990123/ideals.nagaseren/main/images/shop.jpg) \n\n **📅 发售日期：** 2024.05.23 \n **📊 收集进度：** 15/15 (Complete) \n **📝 备注：** 2人体制后极具透明感的白西装系列，侧颜神中之神。已全套收齐并入册。",
+      "category": "Shop Photos"
+    },
+    {
+      "title": "🎨 2026 巡演饭撒扇制作 (Nagase Ren)",
+      "description": "![钻扇](https://raw.githubusercontent.com/yll19990123/ideals.nagaseren/main/images/fan.jpg) \n\n **🎨 设计风格：** Dior Logo 背景 / 黑色艺术字 \n **🛠 制作进度：** 平面图纸已定稿 (Ready for Bling) \n **📝 备注：** 计划全手工贴钻，底纹对齐Dior老花风格，名字采用 Nagase Ren 特制字体。",
       "category": "Fanmade"
     },
     {
-      "title": "📸 halfmoon / moooove!! 公式照",
-      "description": "![生写](https://raw.githubusercontent.com/yll19990123/ideals.nagaseren/main/images/shop.jpg) \n\n **状态：已齐** \n 2024年5月发行。白西装系列侧颜非常出挑。",
-      "category": "Shop Photos"
+      "title": "🎤 Arena Tour 2023 〜ピース〜 Live Off-shot",
+      "description": "![Peace](https://raw.githubusercontent.com/yll19990123/ideals.nagaseren/main/images/peace.jpg) \n\n **📅 发售日期：** 2023.08.16 \n **📊 收集进度：** 18/20 (Missing 2) \n **📝 备注：** 目前缺安可环节戴猫耳的 2 张。已在煤炉设置关键词提醒。",
+      "category": "Live Photos"
+    },
+    {
+      "title": "🌸 Memorial 早期 (2018-2019)",
+      "description": "![Memorial](https://raw.githubusercontent.com/yll19990123/ideals.nagaseren/main/images/memorial.jpg) \n\n **📅 发售日期：** 2018 - 2019 \n **📊 收集进度：** 极少量持有 \n **📝 备注：** 出道初期的茶发廉。属于长期收集目标，梦情是《灰姑娘女孩》花絮系列。",
+      "category": "Rare / Memorial"
     }
   ],
   "links": [
     {
-      "name": "GitHub 仓库",
+      "name": "GitHub 仓库 (数据源)",
       "url": "https://github.com/yll19990123/ideals.nagaseren"
+    },
+    {
+      "name": "King & Prince Official",
+      "url": "https://www.universal-music.co.jp/king-and-prince/"
     }
   ]
 }
